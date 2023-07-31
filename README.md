@@ -32,9 +32,6 @@ A meticulous, energetic, and motivated individual, quick to ramp up with any env
 - Email: zeeshan.jamal@northsouth.edu
 - GitHub: [zeeshan-jamal](https://github.com/zeeshan-jamal)
 
-## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeeshanjay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshan-jamal-3227071a9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21959928) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Zeeshan_J_1996) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zeeshan-jamal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-jamal&theme=dark&hide_border=false)<br/>
