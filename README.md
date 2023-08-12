@@ -53,7 +53,7 @@ A meticulous, energetic, and motivated individual, quick to ramp up with any env
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeeshanjay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshan-jamal-3227071a9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21959928) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Zeeshan_J_1996) 
 
-## Games That I Play :video_game:
+#### Games That I Play :video_game:
 ![Valorant Badge](https://img.shields.io/badge/Valorant-FA4454?logo=valorant&logoColor=fff&style=for-the-badge)
 
 Looking forward to connecting with the vibrant GitHub community and collaborating on exciting projects! Let's build something awesome together. 🚀
