@@ -30,7 +30,7 @@ A meticulous, energetic, and motivated individual, quick to ramp up with any env
 - [Comparative Study of Deep Learning Algorithms for the Detection of Facial Paralysis](https://ieeexplore.ieee.org/abstract/document/9946491)
 
 ## Extra-curricular Activities, Awards, and Achievements 🏆
-- Robotics course from Creative IT institute
+- Robotics course authorized by Creative IT institute
 - Introduction to Web Development (online non-credit course authorized by the University of California, Davis and offered through Coursera)
 - Programming for Everybody (Getting Started with Python) (online non-credit course authorized by the University of Michigan and offered through Coursera)
 
