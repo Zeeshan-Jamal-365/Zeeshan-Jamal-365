@@ -1,6 +1,6 @@
 # Zeeshan Jamal 👨‍💻
 <p align="center">
- ![238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d](https://github.com/Zeeshan-jamal/Zeeshan-jamal/assets/64805436/36a4f2ed-20a7-405c-94b8-6d6dac816328)
+ <img width="350" src="https://github.com/Zeeshan-jamal/Zeeshan-jamal/assets/64805436/36a4f2ed-20a7-405c-94b8-6d6dac816328">
 </p>
 
 ## About Me 🙋‍♂️
