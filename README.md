@@ -44,9 +44,9 @@ A meticulous, energetic, and motivated individual, quick to ramp up with any env
 - GitHub: [zeeshan-jamal](https://github.com/zeeshan-jamal)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zeeshan-jamal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-jamal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-jamal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Zeeshan-jamal's Stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-jamal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Zeeshan-jamal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-jamal&theme=tokyonight&hide_border=true)
+![Zeeshan-jamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-jamal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zeeshan-jamal&theme=nord&no-frame=true&no-bg=true&margin-w=4)
