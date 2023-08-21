@@ -1,5 +1,5 @@
 # Zeeshan Jamal 👨‍💻
-![238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d](https://github.com/Zeeshan-jamal/Zeeshan-jamal/assets/64805436/36a4f2ed-20a7-405c-94b8-6d6dac816328)
+<p align="center">![238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d](https://github.com/Zeeshan-jamal/Zeeshan-jamal/assets/64805436/36a4f2ed-20a7-405c-94b8-6d6dac816328)</p>
 
 ## About Me 🙋‍♂️
 A meticulous, energetic, and motivated individual, quick to ramp up with any environment, project, or team. I excel in qualitative and quantitative studies, analyzing user behaviors, and designing novel user experiences for technical products. I provide value-adding user-facing design solutions, from overall design language to specific interaction and interface designs. With excellent interpersonal and communication skills, I thrive in high-pressure team environments. I have received outstanding feedback and performance reviews from peers, and I am always eager to contribute ideas and learn new things.
