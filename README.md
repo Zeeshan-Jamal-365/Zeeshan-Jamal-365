@@ -43,21 +43,21 @@ A meticulous, energetic, and motivated individual, quick to ramp up with any env
 
 ## Contact Information 📞
 - Email: zeeshan.jamal@northsouth.edu
-- GitHub: [zeeshan-jamal](https://github.com/zeeshan-jamal)
+- GitHub: [Zeeshan-Jamal-personal-account](https://github.com/Zeeshan-Jamal-personal-account)
 
 # 📊 GitHub Stats:
-![Zeeshan-jamal's Stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-jamal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Zeeshan-jamal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-jamal&theme=tokyonight&hide_border=true)
-![Zeeshan-jamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-jamal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Zeeshan-Jamal-personal-account's Stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-Jamal-personal-account&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Zeeshan-Jamal-personal-account's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-Jamal-personal-account&theme=tokyonight&hide_border=true)
+![Zeeshan-Jamal-personal-account's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-Jamal-personal-account&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zeeshan-jamal&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Zeeshan-Jamal-personal-account&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zeeshan-jamal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Zeeshan-Jamal-personal-account&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeeshanjay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshan-jamal-3227071a9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21959928) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Zeeshan_J_1996) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeeshanjay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zeeshan-Jamal-personal-account-3227071a9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21959928) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Zeeshan_J_1996) 
 
 #### Games That I Play :video_game:
 ![Valorant Badge](https://img.shields.io/badge/Valorant-FA4454?logo=valorant&logoColor=fff&style=for-the-badge)
