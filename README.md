@@ -42,11 +42,11 @@ A meticulous, energetic, and motivated individual, quick to ramp up with any env
 - Bangla (Native Language)
 
 ## Contact Information 📞
-- Email: zeeshan.jamal@northsouth.edu
-- GitHub: [Zeeshan-Jamal-personal-account](https://github.com/Zeeshan-Jamal-personal-account)
+- Email: [zeeshan.jamal@northsouth.edu] (mailto:zeeshan.jamal@northsouth.edu), [jamal.zeeshan1997@gmail.com] (mailto:jamal.zeeshan1997@gmail.com)
+- GitHub: [Zeeshan-Jamal](https://github.com/Zeeshan-Jamal-365)
 
 # 📊 GitHub Stats:
-![Zeeshan-Jamal-personal-account's Stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-Jamal-365&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
+![Zeeshan-Jamal's Stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-Jamal-365&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-Jamal-365&theme=dark&hide_border=true)<br>
 ![Zeeshan-Jamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-Jamal-365&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
