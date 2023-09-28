@@ -47,7 +47,7 @@ A meticulous, energetic, and motivated individual, quick to ramp up with any env
 
 # 📊 GitHub Stats:
 ![Zeeshan-Jamal-personal-account's Stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-Jamal-365&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-Jamal-365&theme=tokyonight&hide_border=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-Jamal-365&theme=dark&hide_border=true)<br>
 ![Zeeshan-Jamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-Jamal-365&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
  ## 🏆 GitHub Trophies
