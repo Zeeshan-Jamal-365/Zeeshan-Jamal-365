@@ -42,13 +42,13 @@ A meticulous, energetic, and motivated individual, quick to ramp up with any env
 - Bangla (Native Language)
 
 ## Contact Information 📞
-- Email: [zeeshan.jamal@northsouth.edu] (mailto:zeeshan.jamal@northsouth.edu), [jamal.zeeshan1997@gmail.com] (mailto:jamal.zeeshan1997@gmail.com)
+- Email: [zeeshan.jamal@northsouth.edu] , [jamal.zeeshan1997@gmail.com] 
 - GitHub: [Zeeshan-Jamal](https://github.com/Zeeshan-Jamal-365)
 
 # 📊 GitHub Stats:
-![Zeeshan-Jamal's Stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-Jamal-365&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
+![Zeeshan-Jamal's Stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-Jamal-365&theme=dark&show_icons=true&hide_border=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-Jamal-365&theme=dark&hide_border=true)<br>
-![Zeeshan-Jamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-Jamal-365&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Zeeshan-Jamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-Jamal-365&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zeeshan-Jamal-365&theme=nord&no-frame=true&no-bg=true&margin-w=4)
