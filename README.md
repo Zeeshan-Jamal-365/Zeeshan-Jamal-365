@@ -50,7 +50,7 @@ A meticulous, energetic, and motivated individual, quick to ramp up with any env
 - Bangla (Native Language)
 
 ## Contact Information 📞
-- Email: [zeeshan.jamal@northsouth.edu] , [jamal.zeeshan1997@gmail.com] 
+- Email: zeeshan.jamal@northsouth.edu , jamal.zeeshan1997@gmail.com 
 - GitHub: [Zeeshan-Jamal](https://github.com/Zeeshan-Jamal-365)
 
 # 📊 GitHub Stats:
