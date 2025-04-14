@@ -7,6 +7,8 @@
 A meticulous, energetic, and motivated individual, quick to ramp up with any environment, project, or team. I excel in qualitative and quantitative studies, analyzing user behaviors, and designing novel user experiences for technical products. I provide value-adding user-facing design solutions, from overall design language to specific interaction and interface designs. With excellent interpersonal and communication skills, I thrive in high-pressure team environments. I have received outstanding feedback and performance reviews from peers, and I am always eager to contribute ideas and learn new things.
 
 ## Academic Credentials 🎓
+- Master of Science in Data Analytics
+- Dublin Business School, Dublin, Ireland
 - Bachelor of Science in Computer Science and Engineering
 - North South University, Dhaka, Bangladesh
 
